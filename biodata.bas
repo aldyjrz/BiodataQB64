@@ -1,4 +1,4 @@
-dddDIM nama AS STRING
+DIM nama AS STRING
 DIM kelas AS STRING
 DIM jurusan AS STRING
 DIM asal_sekolah AS STRING
