@@ -62,7 +62,7 @@ SELECT CASE menu_case
 
     CASE ELSE
         CLS
-        PRINT "Menu key Hanya 1 dan 2"
+        PRINT "Menu key Hanya 1 dan 3"
         PRINT ""
         PRINT ""
         GOTO 10
